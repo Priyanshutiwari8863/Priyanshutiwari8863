@@ -57,7 +57,8 @@ Tel wind ||
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Priyanshutiwari8863
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/priyanshu-tiwari-tiwari-976a01275/
+- Leetcode:https://leetcode.com/u/priyanshu18455/
 
 ---
 
