@@ -17,21 +17,25 @@ I enjoy building REST APIs, working with databases, and learning real-world soft
 - JavaScript
 - Python
 - C / C++
-
+### Frontend development
+-HTML
+-CSS
+-Tel wind 
+-React
 ### ⚙️ Backend Development
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
-
 ### 🗄️ Database
 - MongoDB
 - Mongoose
+- MySQL
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
 - VS Code
-- Postman
+- Mysql Workbench 
 - MongoDB Compass
 
 ---
@@ -45,8 +49,6 @@ I enjoy building REST APIs, working with databases, and learning real-world soft
 ---
 
 ## 📌 Projects
-- CRUD Backend APIs
-- Authentication System (JWT)
 - MERN Practice Projects
 
 *(More projects coming soon 🚀)*
