@@ -18,10 +18,10 @@ I enjoy building REST APIs, working with databases, and learning real-world soft
 - Python
 - C / C++
 ### Frontend development
--HTML
--CSS
--Tel wind 
--React
+ HTML ||
+ CSS ||
+Tel wind ||
+ React
 ### ⚙️ Backend Development
 - Node.js
 - Express.js
